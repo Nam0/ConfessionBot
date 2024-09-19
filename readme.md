@@ -21,8 +21,8 @@ It only logs the last 5 confessions(By default) anything after is swipped away t
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Nam0/ConfessionBot/
+   cd ConfessionBot
    ```
 
 2. **Create a Virtual Environment**
