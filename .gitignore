@@ -1,0 +1,3 @@
+bot.py
+/server_configs/*
+!/server_configs/sample.json
