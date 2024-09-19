@@ -1,6 +1,8 @@
 # Anonymous Confession Bot
 
 A Discord bot for managing anonymous confessions with features for submission, configuration, banning/unbanning users, and exposing confessions. 
+Unfortunately we do not live in a perfect world and people will abuse a 100% anonymous confession bot but this one is written with privacy in mind!
+It only logs the last 5 confessions(By default) anything after is swipped away to the void, and if a staff memeber chooses to expose you to find out who wrote what confession both the staff memeber and the user involved get a DM.
 
 ## Features
 
